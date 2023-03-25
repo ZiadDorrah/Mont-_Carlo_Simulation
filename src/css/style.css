@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Comforter", cursive; */
+}
+.user-input .user-inputs {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+.user-input .user-inputs * {
+  margin-top: 15px;
+}
+.table {
+  margin-top: 40px;
+}
+.check{
+  margin-top: 50px;
+}
+.check label{
+  margin-top: 10px;
+}
+span {
+  padding-left: 5px;
+  text-decoration: underline;
+}
